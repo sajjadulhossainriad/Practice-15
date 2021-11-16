@@ -1,0 +1,162 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.heading{
+    background-color: rgb(27, 169, 204);
+    display: inline-block;
+    padding: 5px 20px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+    margin: 20px 0 0 550px;
+}
+/* Display Property*/
+h1{
+    background-color: green;
+}
+head{
+    background-color: green;
+}
+header{
+    background-color: green;
+}
+span{
+    background-color: green;
+}
+b{
+    background-color: green;
+}
+.div1{
+    background-color: green;
+}
+sup{
+    background-color: green;
+}
+sub{
+    background-color: green;
+}
+small{
+    background-color: green;
+}
+form{
+    background-color: green;
+}
+code{
+    background-color: green;
+}
+small{
+    background-color: green;
+}
+address{
+    background-color: green;
+}
+article{
+    background-color: green;
+}
+aside{
+    background-color: green;
+}
+audio{
+    background-color: green;
+}
+button{
+    background-color: green;
+}
+del{
+    background-color: green;
+}
+dl{
+    background-color: green;
+}
+details{
+    background-color: green;
+}
+title{
+    background-color: green;
+}
+figure{
+    background-color: green;
+}
+figcaption{
+    background-color: green;
+}
+footer{
+    background-color: green;
+}
+strong{
+    background-color: green;
+}
+table{
+    background-color: green;
+}
+select{
+    background-color: green;
+}
+u{
+    background-color: green;
+}
+caption{
+    background-color: green;
+}
+i{
+    background-color: green;
+}
+
+
+/* Creating Menu */
+ul{
+    text-align: center;
+}
+ul li{
+    display: inline-block;
+    margin-left: -5px;
+}
+ul li a{
+    background-color: green;
+    color: #ffffff;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 60px;
+    border: 1px solid #dddddd;
+}
+ul li a:hover{
+    background-color: rgb(14, 80, 14);
+    transition: .4s;
+}
+/*Background Image*/
+.bgc{
+    background-image: url(https://i.ibb.co/nnCgD2M/background-image.jpg);
+    padding: 200px;
+    text-align: center;
+}
+h2{
+    display: inline-block;
+    font-size: 100px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    text-transform: capitalize;
+    background-color: rgb(54, 54, 153);
+    color: #dddddd;
+    padding: 8px 30px;
+    margin-top: -70px;
+    box-shadow: 2px 3px 5px 5px rgb(73, 69, 69);
+
+}
+h2:hover{
+    background-color:rgb(1, 1, 58);
+    transition: .3s;
+}
+p{
+    display: inline-block;
+    background-color: hsl(337, 57%, 40%);
+    color: rgb(53, 47, 47);
+    font-size: 40px;
+    margin-top: 20px;
+    padding: 5px 15px;
+    box-shadow: 2px 3px 5px 5px rgb(100, 96, 96);
+}
+p:hover{
+    background-color: rgb(255, 0, 255);
+    transition: .4s;
+}
